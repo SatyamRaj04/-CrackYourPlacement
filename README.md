@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
