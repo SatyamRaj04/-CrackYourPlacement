@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
