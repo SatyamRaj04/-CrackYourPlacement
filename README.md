@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
