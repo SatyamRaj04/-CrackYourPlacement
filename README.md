@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
