@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/1622-max-value-of-equation) |
 ## Simulation
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
