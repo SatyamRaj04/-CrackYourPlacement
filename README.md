@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 ## Recursion
 |  |
 | ------- |
