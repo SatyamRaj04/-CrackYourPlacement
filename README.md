@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Counting
 |  |
 | ------- |
@@ -180,4 +183,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
