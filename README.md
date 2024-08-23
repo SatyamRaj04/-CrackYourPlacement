@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0289-game-of-life) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SatyamRaj04/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 ## Recursion
 |  |
